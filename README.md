@@ -7,9 +7,9 @@ I'm a self-driven game developer and computer science student passionate about c
 📚 Always hungry to learn and obsessed with shipping cool stuff
 
 ## 💻 Tech Stack
-- 🚀 Languages: Python, GDScript, C# (basic), JavaScript
+- 🚀 Languages: Python, GDScript, C++ (basic), JavaScript
 - 🎨 Tools: Godot, Blender, Aseprite, Krita, GIMP
-- 🤖 AI: OpenCV, Transformers, Stable Diffusion, GPT APIs
+- 🤖 AI: TensorFlow, Pytorch, Google Colab etc.
 - 🧰 Others: Git, VS Code, Linux, Micromamba, Bash
 
 ## 🔭 Current Focus
