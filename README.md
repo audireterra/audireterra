@@ -23,7 +23,7 @@ I'm a self-driven game developer and computer science student passionate about c
 - I once debugged in a dream. It worked.
 
 ## 📫 Connect with me
-- Discord: `yourdiscord#1337`
+- BioLink: [AudireTerra](https://audireterra.bio.link/)
 - Email: [audireterra.work@gmail.com](mailto:audireterra.work@gmail.com)
 
 ---
